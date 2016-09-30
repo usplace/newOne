@@ -11,8 +11,16 @@ For http client  apply for  restful api:
 
     how to solve fresh  synchronize
 redis features:
-
+       in-memory, as database, can persistent ,message broker	
+      
 redis supremacy than other cache system:
+	
+redis use:
+       for java  :  jedis.jar             https://www.tutorialspoint.com/redis/redis_java.htm
+       add cache to redis:   
+      read  cache  from redis:
+
+
 
 
 缓存：浏览器缓存、中间缓存、内容分发网络（CDN）和服务器上的负载平衡和反向代理
