@@ -1,0 +1,24 @@
+redis:
+For http client  apply for  restful api:
+      data  features suitable for(memcache  redis  mongodb) 
+      which data don’t change frequently
+      cache in  client  end ：jsp   cache标签   
+       cache in server end.  
+     
+       Horizontal scalability
+       lazy load
+
+
+    how to solve fresh  synchronize
+redis features:
+
+redis supremacy than other cache system:
+
+
+缓存：浏览器缓存、中间缓存、内容分发网络（CDN）和服务器上的负载平衡和反向代理
+缓存的性能指标：cache 命中率  ;  有效cache比率(被访问到的 ) 
+一致性：有效期expire，最后修改时间缓存版本号等信息标记修改
+前端cache：
+       http协议中的
+redis配置 ：https://ruby-china.org/topics/22761
+扩展： EHCache  与spring整合  http://www.cnblogs.com/duanxz/p/5155985.html
